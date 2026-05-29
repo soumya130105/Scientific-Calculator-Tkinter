@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6998a00a-2e6e-4a52-92cc-cccba116e0ab" /># 🧮 Scientific Calculator using Python Tkinter
+# 🧮 Scientific Calculator using Python Tkinter
 
 A GUI-based Scientific Calculator developed using Python and Tkinter. This application provides both basic arithmetic operations and scientific functions through a clean dark-themed interface.
 
